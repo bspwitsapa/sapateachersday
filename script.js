@@ -7,7 +7,7 @@ const teachersData = {
         { id: 'math1', name: 'นางสาวพรวิภา สมบุญ', image: 'phonwipha.jpg' },
         { id: 'math2', name: 'นางสาวกนกวรรณ มีชัยผาสุข', image: 'kanokwan.jpg' },
         { id: 'math3', name: 'นางสายสมร เงินเหลี่ยม', image: 'saisamon.jpg' },
-        { id: 'math4', name: 'นางสาวสุภัตรา ทรัพย์อุปการ', image: 'supattra.jpg' },
+        { id: 'math4', name: 'นางสาวสุภัตรา ทรัพย์อุปการ', image: 'supattra2.jpg' },
         { id: 'math5', name: 'นายสุริโย เหมือนวดี', image: 'suriyo.jpg' },
         { id: 'math6', name: 'นางสาวนัทธมน แดงแท้', image: 'natthamon.jpg' },
         { id: 'math7', name: 'นางสาวอิศราภรณ์ พูลสวัสดิ์', image: 'itsaraphon.jpg' },
