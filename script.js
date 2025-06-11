@@ -4,7 +4,7 @@ const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwBF_-mHdePzrLEslrG3
 // --- แก้ไข PATH รูปภาพทั้งหมดให้ถูกต้องตามโครงสร้างไฟล์ล่าสุด ---
 const teachersData = {
     math: [
-        { id: 'math1', name: 'นางสาวพรวิภา สมบุญ', image: '/sapateachersday/phonwipha.jpg' },
+        { id: 'math1', name: 'นางสาวพรวิภา สมบุญ', image: 'phonwipha.jpg' },
         { id: 'math2', name: 'นางสาวกนกวรรณ มีชัยผาสุข', image: '/sapateachersday/kanokwan.jpg' },
         { id: 'math3', name: 'นางสายสมร เงินเหลี่ยม', image: '/sapateachersday/saisamon.jpg' },
         { id: 'math4', name: 'นางสาวสุภัตรา ทรัพย์อุปการ', image: '/sapateachersday/supattra.jpg' },
